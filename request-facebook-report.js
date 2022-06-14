@@ -14,22 +14,22 @@
 // MODIFY YOUR REPORT HERE //
 
 // ad account ID
-const AD_ACCOUNT_ID = 'INSERT_AD_ACCOUNT_ID'
+const AD_ACCOUNT_ID = '542423740792694'
 
 // ad, adset, campaign, account
-const LEVEL = 'INSERT_LEVEL'
+const LEVEL = 'ad'
 
 // https://developers.facebook.com/docs/marketing-api/insights/parameters#fields
-const FIELDS = 'INSERT_FIELDS'
+const FIELDS = 'clicks,ctr,cpm,impressions,spend'
 
 // https://developers.facebook.com/docs/marketing-api/insights/parameters#param
-const DATE_RANGE = 'INSERT_DATE_RANGE'
+const DATE_RANGE = 'last_28d'
 
 // user access token linked to a Facebook app
 const TOKEN = 'INSERT_TOKEN'
 
 // number of days from 1 to 90
-const TIME_INCREMENT = 'INSERT_TIME_INCREMENT'
+const TIME_INCREMENT = '1'
 
 // https://developers.facebook.com/docs/marketing-api/insights/parameters#param
 const FILTERING = 'INSERT_FILTERS'
