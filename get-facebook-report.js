@@ -14,10 +14,10 @@
 // MODIFY YOUR SETTINGS HERE //
 
 // url of the google sheets where the report will be
-const SPREADSHEET_URL = 'INSERT_URL'
+const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1qbYYUPPH8rZsl9kafIHvHBrCnqt8hV21QQncZ_gJIXc/edit#gid=0'
 
 // name of the sheet where the report will be
-const TAB_NAME = 'INSERT_TAB_NAME'
+const TAB_NAME = 'Vue Facebook'
 
 // DO NOT MODIFY ANYTHING BELOW //
 
