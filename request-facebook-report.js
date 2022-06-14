@@ -26,7 +26,7 @@ const FIELDS = 'clicks,ctr,cpm,impressions,spend'
 const DATE_RANGE = 'last_28d'
 
 // user access token linked to a Facebook app
-const TOKEN = 'INSERT_TOKEN'
+const TOKEN = 'EAAtOS0pufesBAPBoWyrFmYV35QEuYfXSI8ZC7ScxexcAqZAUm4Iv04Dw4ZAr1IaiWUt7qXdqSZCyZBRIQ4W3waWD81jUZATGD3yIQodrpX0nKvO9p9ivjy18RPtAIskzL6lLYRuD5bZAqFQbkuhep3PVLNZCBrdBoR0MJXMcqBrP0zZA63mdRAZBORHr3U4jlyAhhX3MEl11OMo7rtz2R2sgGLPwLMVM4B7cwZD'
 
 // number of days from 1 to 90
 const TIME_INCREMENT = '1'
